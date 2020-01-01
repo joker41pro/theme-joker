@@ -10,6 +10,18 @@ purple='\e[1;35m'
 cyan='\e[1;36m'
 white='\e[1;37m'
 yellow='\e[1;33m'
+alias x='exit'
+alias c='clear'
+alias p='python'
+alias n='nano'
+alias b='nano .bashrc'
+alias pp='python2'
+alias m='chmod +x'
+alias g='git clone'
+alias r='rm -rif'
+alias sd='cd /sdcard'
+alias l='ls'
+alias la='ls -a'
 echo -e "\e[97m                      ______
                    .-        -.
                   /            \ \033[1m \e[31mBY\033[1m \e[34m.\033[1m \e[31m•J.o.K.e.R•
